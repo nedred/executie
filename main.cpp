@@ -15,5 +15,7 @@ int main(int argc, char *argv[])
     _executie->activete(input,voice);
     _executie->activete(input,web);
 
+    qDebug() << "dev branch";
+
     return a.exec();
 }
